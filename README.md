@@ -1,1 +1,1 @@
-Thid is my zero day with vagrant
+This is my zero day with vagrant
